@@ -15,9 +15,7 @@ I will try to have three different versions as we move along with the course.
   * Display messages saved in a HTML element <table>.
   * The messages remain in your broswer storage in between sessions until you reset the data.
   * There is one extra style here to make the grid rows show alternate colors.   
-  
-  
-<a/>
+</ul>
 ------------------------------------------------------------------------------------------------- 
 
   
