@@ -17,7 +17,7 @@ I will try to have three different versions as we move along with the course.
   * There is one extra style here to make the grid rows show alternate colors.   
   
   
-</a>
+<a/>
 ------------------------------------------------------------------------------------------------- 
 
   
