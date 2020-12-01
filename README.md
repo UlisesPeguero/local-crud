@@ -15,6 +15,6 @@ I will try to have three different versions as we move along with the course.
 - **Simple**
   * List of messages, we only keep track of one field(message).
   * Uses an inline form.
-  * Display messages saved in a HTML element <table>.
-  * The messages remain in your broswer storage in between sessions until you reset the data.
+  * Display messages saved in a HTML element [table].
+  * The messages remain in your browser storage in between sessions until you reset the data.
   * There is one extra style here to make the grid rows show alternate colors.  
